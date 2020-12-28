@@ -1,3 +1,7 @@
+# Transfer to fluminurs org
+This repository is just a fork to ensure that anything hard-linking the repository to my account does not break.
+The main development has now been moved to the fluminurs org: https://github.com/fluminurs/fluminurs
+
 # New maintainers
 I am graduating at the end of this semester (December 2020), so I will most likely not have time to maintain nor the necessary access to test and dogfood the features.
 
